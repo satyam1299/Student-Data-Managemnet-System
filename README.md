@@ -1,2 +1,2 @@
 # Student-Data-Management-System
-This System is developed using Jupyter Notebook. The prerequisite for creating this system, you need to have basic knowledge of Python. 
+I have hands-on experience in developing a Student Data Management System using Python in a Jupyter Notebook environment. In this project, I utilized object-oriented programming concepts such as classes, objects, constructors, and functions to create an efficient system. The program allows users to add, display, search, update, and delete student details, demonstrating my proficiency in data management and manipulation. This project not only showcases my skills in Python programming but also highlights my ability to design and implement practical solutions for real-world applications.
